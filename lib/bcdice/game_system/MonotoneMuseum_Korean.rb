@@ -26,7 +26,7 @@ module BCDice
         　・징조표　OT／징조표ver2.0　OT2／징조표ver3.0　OT3
         　・일그러짐표　DT／일그러짐표ver2.0　DT2／일그러짐표(야외)　DTO／일그러짐표(바다)　DTS／일그러짐표(저택・성)　DTM
         　・세계왜곡표　　WDT／세계왜곡표2.0　WDT2
-        　・영구상실표　EDT
+        　・영구소실표　EDT
         ・D66다이스 있음
       INFO_MESSAGE_TEXT
 
